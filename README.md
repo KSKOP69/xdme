@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamuskanverma" alt="iamuskanverma" /></a> </p>
 
-- 🌱 I’m currently learning **Python javascript**
+- 🌱 I’m currently learning **Python, javascript,java**
 
-- 💬 Ask me about python,html 
+- 💬 Ask me about python,html ,java.
 
 
 
