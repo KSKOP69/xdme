@@ -30,14 +30,12 @@
   </a>
 </p>
 
-<p align="center">
+<div style="border: 1px solid #ddd; padding: 10px; border-radius: 5px;">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamuskanverma&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamuskanverma&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamuskanverma" alt="GitHub Streak Stats" />
-</p>
+
+</div>
